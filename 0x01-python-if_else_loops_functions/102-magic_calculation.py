@@ -1,5 +1,3 @@
-table File  9 lines (8 sloc)  198 Bytes
-
 #!/usr/bin/python3
 
 def magic_calculation(a, b, c):
