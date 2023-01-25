@@ -84,27 +84,3 @@ class Square:
                 for j in range(0, self.__size):
                     print("#", end="")
                 print()
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-"6-square.py" [New File]                                      0,0-1         All
-
