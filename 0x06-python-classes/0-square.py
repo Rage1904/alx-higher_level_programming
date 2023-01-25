@@ -3,5 +3,5 @@
 ***Define a Class Square.***
 
 class Square:
-    ***Represent the square.***
+    ***Represent a square.***
     pass
